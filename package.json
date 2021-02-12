@@ -6,7 +6,10 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "firebase": "^8.2.6",
+    "nanoid": "^3.1.20",
     "react": "^17.0.1",
+    "react-cool-portal": "^1.0.26",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
